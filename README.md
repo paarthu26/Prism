@@ -30,3 +30,5 @@ Prism is an autonomous physical performance and health optimization dashboard. I
    ```bash
    git clone [https://github.com/paarthu26/Prism.git](https://github.com/paarthu26/Prism.git)
    cd Prism
+
+* **Partner Track Integration:** MongoDB Atlas (Target production data store for handling high-throughput JSON document biometrics, flexible telemetry arrays, and multi-turn AI session histories).
